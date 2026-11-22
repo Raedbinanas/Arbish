@@ -1,0 +1,6 @@
+{
+  "name": "Arbish Bites 3D",
+  "description": "Work a full 3D restaurant shift at Arbish Bites—take orders, grill smash burgers, fry crispy bites, pour drinks, and serve late-night customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
